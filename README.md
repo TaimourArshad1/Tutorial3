@@ -46,3 +46,4 @@ players from the first place to last place and print their total earnings.
 enhancements to your project to improve it (e.g. randomly chosen categories and questions,
 double jeopardy, coloured terminal output, etc.) The class will use the group’s project to
 play Jeopardy at the start of the next tutorial.
+
