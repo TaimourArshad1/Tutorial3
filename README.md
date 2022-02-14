@@ -5,8 +5,7 @@ terminal animations, etc.) to personalize your project and make it your own.
 1. Your program must have a command line prompt that is used for all interactions with the
 Jeopardy system.
 2. The program must ask for the names of the four players who will be playing Jeopardy, each
-player must enter their name and have it recorded in the system and their initial earnings set as
-0.
+player must enter their name and have it recorded in the system and their initial earnings set as 0.
 3. The program then starts the game of Jeopardy and prints out each of the question categories
 and displays the dollar values for each question.
 4. The program must accept the name of the person selected to pick the category and question.
@@ -46,4 +45,3 @@ players from the first place to last place and print their total earnings.
 enhancements to your project to improve it (e.g. randomly chosen categories and questions,
 double jeopardy, coloured terminal output, etc.) The class will use the group’s project to
 play Jeopardy at the start of the next tutorial.
-
